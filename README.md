@@ -19,8 +19,9 @@
 
 ## 规则来源
 
-- Best practices for Claude Code 
+- 主要参考了ClaudeCode最佳实践中关于CLAUDE.md的建议  
 https://code.claude.com/docs/en/best-practices
 
-
-
+- 克制借鉴了Codex关于AGENTS.md的思路
+https://developers.openai.com/codex/learn/best-practices
+https://developers.openai.com/codex/guides/agents-md
